@@ -31,8 +31,8 @@ None
 
 commands
 ```bash
-git clone git@github.com:nash-protocol/starter-kit.git 
-cd starter-kit 
+git clone git@github.com:ZestBloom/lockbox.git
+cd lockbox
 source np.sh 
 np
 ```
