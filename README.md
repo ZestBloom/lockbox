@@ -4,7 +4,7 @@ Lockbox is a reach app that locks a token inside a smart contract until another 
 
 ## Activation
 
-0.5 ALGO
+0.35 ALGO
 
 ## Participants
 ### Auctioneer
