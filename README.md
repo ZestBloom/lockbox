@@ -1,6 +1,31 @@
-# starter-kit
+# Lockbox
 
-The NP starter kit describes how to launch a NP RApp in minutes. Quickstart assumes that the local development environment for Reach has been setup.
+Lockbox is a reach app that locks a token inside a smart contract until another is provided to unlock the locked token.
+
+## Activation
+
+0.5 ALGO
+
+## Participants
+### Auctioneer
+Alice sets the lockbox params.
+### Depositor
+Depositor is whomever locks up the token.
+### Recipient
+Recipient is whomever uses the access token to redeem the contents of the lockbox.
+### Relay
+Relay is responsible for closing the app and making sure the key remains lock inside the box.
+## Views
+None
+## API
+None
+
+## Steps
+
+1. Alice comes along
+1. Depositor comes along
+1. Recipient comes along
+1. Relay comes along
 
 ## quickstart
 
