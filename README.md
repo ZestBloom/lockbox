@@ -7,7 +7,7 @@ Lockbox is a reach app that locks a token inside a smart contract until another 
 0.35 ALGO
 
 ## Participants
-### Auctioneer
+### Alice
 Alice sets the lockbox params.
 ### Depositor
 Depositor is whomever locks up the token.
